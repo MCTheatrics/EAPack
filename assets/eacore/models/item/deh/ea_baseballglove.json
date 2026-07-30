@@ -3,8 +3,8 @@
 	"credit": "Made by elizbet.",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "baseballglove",
-		"particle": "baseballglove"
+		"0": "eacore:item/deh/baseballglove",
+		"particle": "eacore:item/deh/baseballglove"
 	},
 	"elements": [
 		{
