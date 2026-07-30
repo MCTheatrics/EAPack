@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made by elizbet.",
 	"textures": {
-		"0": "coffee_cup",
-		"particle": "coffee_cup"
+		"0": "eacore:item/deh/coffee_cup",
+		"particle": "eacore:item/deh/coffee_cup"
 	},
 	"elements": [
 		{
