@@ -3,8 +3,8 @@
 	"credit": "Made by elizbet.",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "eacore:item/deh/phone",
-		"particle": "eacore:item/deh/phone"
+		"0": "phone",
+		"particle": "phone"
 	},
 	"elements": [
 		{
@@ -124,5 +124,40 @@
 				"down": {"uv": [2, 8, 1.25, 8.25], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-148.75, 0, 180],
+			"translation": [0, 2, 1.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-148.75, 0, -180],
+			"translation": [0, 2, 1.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 128, 0],
+			"translation": [7, 3.25, -8],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 128, 0],
+			"translation": [7, 3.25, -8],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"rotation": [62, 0, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -1.25, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"translation": [0, -1.25, 1.5],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
 }
