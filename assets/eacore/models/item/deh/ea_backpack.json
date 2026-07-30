@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "Downloads/backpack",
-		"particle": "Downloads/backpack"
+		"0": "eacore:item/deh/backpack",
+		"particle": "eacore:item/deh/backpack"
 	},
 	"elements": [
 		{
