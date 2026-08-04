@@ -14,7 +14,7 @@
         { "threshold": 5, "model": { "type": "model", "model": "eacore:item/deh/ea_laptop" } },
         { "threshold": 6, "model": { "type": "model", "model": "eacore:item/deh/ea_phone" } },
         { "threshold": 7, "model": { "type": "model", "model": "eacore:item/deh/ea_workbench" } },
-        { "threshold": 8, "model": { "type": "model", "model": "eacore:item/deh/ea_orchard_tre" } },
+        { "threshold": 8, "model": { "type": "model", "model": "eacore:item/deh/ea_orchard_tree" } },
         { "threshold": 9, "model": { "type": "model", "model": "eacore:item/deh/ea_winecart" } }
     ] 
   } 
