@@ -12,7 +12,8 @@
         { "threshold": 3, "model": { "type": "model", "model": "eacore:item/deh/ea_coffee_cup" } },
         { "threshold": 4, "model": { "type": "model", "model": "eacore:item/deh/ea_coffee_pot" } },
         { "threshold": 5, "model": { "type": "model", "model": "eacore:item/deh/ea_laptop" } },
-        { "threshold": 6, "model": { "type": "model", "model": "eacore:item/deh/ea_phone" } }
+        { "threshold": 6, "model": { "type": "model", "model": "eacore:item/deh/ea_phone" } },
+        { "threshold": 7, "model": { "type": "model", "model": "eacore:item/deh/ea_workbench" } }
     ] 
   } 
 } 
