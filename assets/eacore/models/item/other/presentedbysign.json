@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "present_text",
-		"particle": "present_text"
+		"0": "eacore:item/other/present_text",
+		"particle": "eacore:item/other/present_text"
 	},
 	"elements": [
 		{
